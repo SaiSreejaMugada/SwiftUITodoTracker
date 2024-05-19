@@ -1,4 +1,4 @@
-# SwiftUITodoTracker
+# SwiftUITodoTracker 🚀
 
 This project marks my initial foray into the world of Swift and SwiftUI, serving as a foundational step in my learning journey.
 
